@@ -1,12 +1,11 @@
 # Team 1 Computer Forensics
 
 ## Team Members
-* **Adinda Cahya Pramesti**
-* **Ahmad Syauqi Reza**
-* **Jonathan Zelig Sutopo**
-* **Maritza Adelia Sucipto**
-* **Syela Zeruya**
-* **Tandi Lalong**
+1. Evan Christian Nainggolan
+2. Jonathan Zelig Sutopo
+3. Salomo Saitama
+4. Tasya Aulia Darmawan
+5. Rama Owarianto Putra Suharjito
 
 ---
 
