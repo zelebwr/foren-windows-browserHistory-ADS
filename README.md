@@ -86,10 +86,12 @@
 
 ## Forensics Analysis Commands Guide
 
-### 0. `Sha256sum` Hash
+### 0. `sha256sum` Hash
 
 ```text
-36085ec77872506975dc2f371676e75994b400e5712db6a4427e2cf824f7b0dc  challenge/image/challenge.dd
+Target Image:   challenge.dd
+SHA-256:        11aad70be92e076454963f5bfc06f0c86a7bf2cb3aed6645e72d7fb0075207eb
+MD5:            3020528cf54c4c137aaa05d98662389f
 ```
 
 ### 1. Linux Tool Commands
